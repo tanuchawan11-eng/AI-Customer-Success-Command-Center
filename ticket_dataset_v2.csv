@@ -1,0 +1,601 @@
+ticket_id,status,sla_breach,reopened,escalation,change_implementation,created_at,closed_at
+TKT_0001,waiting for customer reply,no,no,no,no,2025-08-19 16:40:18.204547,2025-08-27 02:40:18.204547
+TKT_0002,change implementation,yes,no,yes,no,2025-09-24 16:40:18.204547,2025-10-01 22:40:18.204547
+TKT_0003,waiting for internal reply,no,no,no,no,2025-09-16 16:40:18.204547,
+TKT_0004,change implementation,no,no,no,no,2025-10-01 16:40:18.204547,
+TKT_0005,change implementation,no,no,no,yes,2025-10-31 16:40:18.204547,2025-11-06 11:40:18.204547
+TKT_0006,closed,no,no,no,no,2025-11-12 16:40:18.204547,2025-11-12 17:40:18.204547
+TKT_0007,waiting for internal reply,no,yes,no,no,2025-11-04 16:40:18.204547,2025-11-12 02:40:18.204547
+TKT_0008,waiting for internal reply,no,no,no,no,2025-08-28 16:40:18.204547,2025-09-05 17:40:18.204547
+TKT_0009,waiting for internal reply,no,no,no,yes,2025-10-14 16:40:18.204547,2025-10-16 18:40:18.204547
+TKT_0010,change implementation,no,no,no,yes,2025-11-04 16:40:18.204547,2025-11-12 19:40:18.204547
+TKT_0011,waiting for customer reply,no,no,no,no,2025-09-22 16:40:18.204547,2025-09-23 01:40:18.204547
+TKT_0012,waiting for internal reply,yes,no,no,no,2025-09-28 16:40:18.204547,
+TKT_0013,change implementation,no,no,no,no,2025-10-24 16:40:18.204547,2025-10-29 03:40:18.204547
+TKT_0014,closed,no,no,no,no,2025-09-08 16:40:18.204547,2025-09-10 05:40:18.204547
+TKT_0015,waiting for customer reply,no,no,no,no,2025-09-27 16:40:18.204547,2025-10-02 07:40:18.204547
+TKT_0016,closed,no,no,no,no,2025-09-13 16:40:18.204547,
+TKT_0017,waiting for customer reply,no,no,no,no,2025-10-07 16:40:18.204547,2025-10-11 20:40:18.204547
+TKT_0018,change implementation,no,no,no,no,2025-09-29 16:40:18.204547,
+TKT_0019,open,yes,no,no,no,2025-10-16 16:40:18.204547,
+TKT_0020,waiting for customer reply,no,no,no,yes,2025-09-23 16:40:18.204547,
+TKT_0021,closed,no,no,yes,yes,2025-09-05 16:40:18.204547,2025-09-09 18:40:18.204547
+TKT_0022,change implementation,no,no,yes,no,2025-09-16 16:40:18.204547,2025-09-21 12:40:18.204547
+TKT_0023,waiting for customer reply,yes,no,no,yes,2025-11-05 16:40:18.204547,
+TKT_0024,open,no,no,no,yes,2025-10-16 16:40:18.204547,2025-10-17 07:40:18.204547
+TKT_0025,open,no,no,no,no,2025-09-06 16:40:18.204547,2025-09-13 20:40:18.204547
+TKT_0026,waiting for internal reply,no,yes,no,no,2025-10-12 16:40:18.204547,2025-10-16 11:40:18.204547
+TKT_0027,waiting for internal reply,no,no,no,no,2025-10-19 16:40:18.204547,2025-10-20 21:40:18.204547
+TKT_0028,closed,no,no,no,no,2025-09-22 16:40:18.204547,2025-09-30 07:40:18.204547
+TKT_0029,waiting for customer reply,no,no,no,no,2025-10-02 16:40:18.204547,2025-10-04 03:40:18.204547
+TKT_0030,waiting for customer reply,no,no,no,no,2025-10-16 16:40:18.204547,2025-10-18 03:40:18.204547
+TKT_0031,waiting for internal reply,yes,no,no,no,2025-08-16 16:40:18.204547,2025-08-21 14:40:18.204547
+TKT_0032,waiting for customer reply,no,no,no,yes,2025-10-10 16:40:18.204547,
+TKT_0033,waiting for customer reply,no,no,no,no,2025-08-26 16:40:18.204547,2025-09-03 13:40:18.204547
+TKT_0034,open,no,no,no,yes,2025-08-27 16:40:18.204547,2025-09-03 09:40:18.204547
+TKT_0035,waiting for internal reply,no,no,no,no,2025-10-20 16:40:18.204547,2025-10-27 18:40:18.204547
+TKT_0036,change implementation,no,no,no,no,2025-10-24 16:40:18.204547,2025-11-01 11:40:18.204547
+TKT_0037,waiting for internal reply,no,no,yes,no,2025-09-09 16:40:18.204547,2025-09-14 02:40:18.204547
+TKT_0038,change implementation,no,no,no,no,2025-09-25 16:40:18.204547,2025-09-30 13:40:18.204547
+TKT_0039,open,no,no,no,no,2025-09-05 16:40:18.204547,2025-09-06 13:40:18.204547
+TKT_0040,closed,yes,no,yes,no,2025-11-07 16:40:18.204547,
+TKT_0041,waiting for customer reply,yes,no,no,yes,2025-10-28 16:40:18.204547,2025-11-01 16:40:18.204547
+TKT_0042,open,no,yes,yes,no,2025-11-13 16:40:18.204547,2025-11-20 05:40:18.204547
+TKT_0043,waiting for customer reply,no,no,no,no,2025-10-30 16:40:18.204547,2025-11-07 14:40:18.204547
+TKT_0044,closed,no,no,no,no,2025-08-16 16:40:18.204547,2025-08-22 12:40:18.204547
+TKT_0045,closed,yes,yes,no,no,2025-11-10 16:40:18.204547,2025-11-11 14:40:18.204547
+TKT_0046,open,no,no,no,no,2025-11-12 16:40:18.204547,
+TKT_0047,closed,no,no,no,no,2025-10-26 16:40:18.204547,2025-10-31 14:40:18.204547
+TKT_0048,change implementation,no,no,no,no,2025-09-10 16:40:18.204547,2025-09-10 18:40:18.204547
+TKT_0049,closed,no,no,no,no,2025-08-29 16:40:18.204547,
+TKT_0050,waiting for customer reply,no,no,no,no,2025-10-19 16:40:18.204547,2025-10-23 10:40:18.204547
+TKT_0051,waiting for customer reply,no,no,yes,no,2025-08-26 16:40:18.204547,2025-09-03 12:40:18.204547
+TKT_0052,waiting for customer reply,no,yes,no,no,2025-10-06 16:40:18.204547,2025-10-13 02:40:18.204547
+TKT_0053,waiting for customer reply,no,no,no,yes,2025-10-29 16:40:18.204547,2025-10-31 15:40:18.204547
+TKT_0054,change implementation,yes,no,no,no,2025-08-18 16:40:18.204547,2025-08-18 22:40:18.204547
+TKT_0055,waiting for internal reply,no,no,no,yes,2025-08-17 16:40:18.204547,2025-08-18 11:40:18.204547
+TKT_0056,open,no,no,no,no,2025-09-30 16:40:18.204547,2025-10-07 11:40:18.204547
+TKT_0057,waiting for customer reply,no,no,no,yes,2025-10-09 16:40:18.204547,2025-10-10 11:40:18.204547
+TKT_0058,closed,no,yes,no,no,2025-08-18 16:40:18.204547,
+TKT_0059,waiting for customer reply,no,no,no,no,2025-09-12 16:40:18.204547,2025-09-19 18:40:18.204547
+TKT_0060,closed,no,no,no,yes,2025-10-30 16:40:18.204547,2025-11-07 03:40:18.204547
+TKT_0061,closed,no,yes,no,no,2025-11-13 16:40:18.204547,
+TKT_0062,waiting for customer reply,no,no,no,no,2025-09-16 16:40:18.204547,2025-09-22 10:40:18.204547
+TKT_0063,change implementation,no,no,no,no,2025-09-03 16:40:18.204547,2025-09-03 17:40:18.204547
+TKT_0064,closed,no,no,no,yes,2025-09-03 16:40:18.204547,
+TKT_0065,closed,yes,no,no,no,2025-09-30 16:40:18.204547,
+TKT_0066,waiting for customer reply,no,no,no,no,2025-08-27 16:40:18.204547,
+TKT_0067,closed,no,no,no,yes,2025-09-21 16:40:18.204547,2025-09-28 12:40:18.204547
+TKT_0068,closed,no,no,no,yes,2025-09-12 16:40:18.204547,2025-09-18 20:40:18.204547
+TKT_0069,waiting for customer reply,no,no,yes,no,2025-08-24 16:40:18.204547,2025-08-26 15:40:18.204547
+TKT_0070,waiting for customer reply,no,no,no,no,2025-10-23 16:40:18.204547,
+TKT_0071,open,no,no,no,no,2025-10-01 16:40:18.204547,2025-10-08 10:40:18.204547
+TKT_0072,change implementation,yes,no,yes,no,2025-09-09 16:40:18.204547,
+TKT_0073,change implementation,no,no,no,no,2025-11-04 16:40:18.204547,2025-11-10 14:40:18.204547
+TKT_0074,closed,no,no,no,no,2025-10-03 16:40:18.204547,2025-10-05 21:40:18.204547
+TKT_0075,change implementation,no,no,no,yes,2025-11-09 16:40:18.204547,
+TKT_0076,closed,no,no,no,no,2025-10-28 16:40:18.204547,2025-10-29 07:40:18.204547
+TKT_0077,open,no,no,no,no,2025-11-09 16:40:18.204547,2025-11-13 14:40:18.204547
+TKT_0078,waiting for customer reply,no,no,yes,no,2025-10-29 16:40:18.204547,2025-11-01 21:40:18.204547
+TKT_0079,waiting for customer reply,no,no,no,no,2025-08-19 16:40:18.204547,2025-08-26 00:40:18.204547
+TKT_0080,waiting for customer reply,no,no,no,no,2025-11-10 16:40:18.204547,2025-11-13 11:40:18.204547
+TKT_0081,change implementation,no,no,no,yes,2025-09-11 16:40:18.204547,2025-09-19 19:40:18.204547
+TKT_0082,open,yes,no,no,no,2025-10-02 16:40:18.204547,2025-10-04 18:40:18.204547
+TKT_0083,change implementation,yes,no,no,yes,2025-10-29 16:40:18.204547,2025-10-30 17:40:18.204547
+TKT_0084,change implementation,no,no,no,no,2025-09-28 16:40:18.204547,2025-10-06 09:40:18.204547
+TKT_0085,open,no,yes,no,yes,2025-10-12 16:40:18.204547,
+TKT_0086,open,no,no,no,yes,2025-10-16 16:40:18.204547,2025-10-23 05:40:18.204547
+TKT_0087,open,no,yes,no,no,2025-11-04 16:40:18.204547,
+TKT_0088,open,yes,no,yes,no,2025-10-11 16:40:18.204547,2025-10-18 05:40:18.204547
+TKT_0089,waiting for customer reply,yes,no,no,no,2025-10-03 16:40:18.204547,2025-10-10 17:40:18.204547
+TKT_0090,waiting for internal reply,no,no,no,no,2025-10-09 16:40:18.204547,2025-10-10 20:40:18.204547
+TKT_0091,waiting for internal reply,no,no,no,yes,2025-11-08 16:40:18.204547,2025-11-09 07:40:18.204547
+TKT_0092,open,no,no,no,yes,2025-09-16 16:40:18.204547,
+TKT_0093,waiting for internal reply,no,no,no,no,2025-10-08 16:40:18.204547,
+TKT_0094,waiting for internal reply,no,yes,no,no,2025-11-03 16:40:18.204547,2025-11-06 12:40:18.204547
+TKT_0095,open,no,no,no,no,2025-10-20 16:40:18.204547,
+TKT_0096,waiting for internal reply,no,no,no,no,2025-08-26 16:40:18.204547,2025-08-30 20:40:18.204547
+TKT_0097,change implementation,no,no,no,no,2025-11-10 16:40:18.204547,2025-11-18 13:40:18.204547
+TKT_0098,closed,no,no,no,no,2025-10-11 16:40:18.204547,
+TKT_0099,closed,no,no,no,no,2025-08-30 16:40:18.204547,2025-09-05 12:40:18.204547
+TKT_0100,open,no,no,no,no,2025-08-18 16:40:18.204547,2025-08-23 19:40:18.204547
+TKT_0101,waiting for customer reply,no,no,no,no,2025-09-30 16:40:18.204547,2025-10-06 23:40:18.204547
+TKT_0102,open,yes,no,no,no,2025-11-01 16:40:18.204547,2025-11-02 08:40:18.204547
+TKT_0103,waiting for customer reply,no,yes,no,no,2025-09-18 16:40:18.204547,2025-09-24 23:40:18.204547
+TKT_0104,closed,no,no,no,no,2025-09-26 16:40:18.204547,2025-10-03 11:40:18.204547
+TKT_0105,open,no,no,no,no,2025-09-02 16:40:18.204547,
+TKT_0106,change implementation,no,no,yes,no,2025-10-29 16:40:18.204547,2025-11-06 16:40:18.204547
+TKT_0107,waiting for internal reply,no,no,no,no,2025-10-01 16:40:18.204547,2025-10-04 14:40:18.204547
+TKT_0108,waiting for customer reply,no,no,no,no,2025-08-18 16:40:18.204547,
+TKT_0109,waiting for internal reply,no,no,no,no,2025-10-12 16:40:18.204547,2025-10-15 17:40:18.204547
+TKT_0110,waiting for internal reply,no,yes,no,no,2025-09-29 16:40:18.204547,
+TKT_0111,open,no,no,no,no,2025-11-06 16:40:18.204547,2025-11-14 12:40:18.204547
+TKT_0112,waiting for internal reply,yes,no,no,no,2025-11-10 16:40:18.204547,2025-11-18 07:40:18.204547
+TKT_0113,change implementation,yes,yes,no,no,2025-11-06 16:40:18.204547,2025-11-11 00:40:18.204547
+TKT_0114,waiting for internal reply,yes,no,yes,no,2025-11-03 16:40:18.204547,
+TKT_0115,open,yes,no,no,no,2025-10-16 16:40:18.204547,2025-10-21 01:40:18.204547
+TKT_0116,change implementation,yes,yes,no,no,2025-08-16 16:40:18.204547,2025-08-18 05:40:18.204547
+TKT_0117,closed,no,no,no,no,2025-10-28 16:40:18.204547,
+TKT_0118,waiting for internal reply,yes,no,no,no,2025-09-07 16:40:18.204547,
+TKT_0119,open,no,no,no,yes,2025-09-12 16:40:18.204547,2025-09-15 11:40:18.204547
+TKT_0120,closed,no,yes,yes,no,2025-10-09 16:40:18.204547,2025-10-15 04:40:18.204547
+TKT_0121,closed,no,no,yes,no,2025-10-26 16:40:18.204547,
+TKT_0122,waiting for customer reply,no,no,no,no,2025-09-04 16:40:18.204547,2025-09-11 18:40:18.204547
+TKT_0123,change implementation,yes,no,yes,yes,2025-10-10 16:40:18.204547,2025-10-18 15:40:18.204547
+TKT_0124,waiting for internal reply,yes,no,yes,no,2025-10-15 16:40:18.204547,2025-10-17 11:40:18.204547
+TKT_0125,open,yes,yes,yes,no,2025-09-01 16:40:18.204547,2025-09-09 22:40:18.204547
+TKT_0126,waiting for customer reply,yes,no,no,no,2025-09-12 16:40:18.204547,2025-09-20 22:40:18.204547
+TKT_0127,change implementation,no,yes,no,yes,2025-09-07 16:40:18.204547,2025-09-09 05:40:18.204547
+TKT_0128,waiting for customer reply,yes,yes,no,no,2025-09-10 16:40:18.204547,2025-09-17 06:40:18.204547
+TKT_0129,change implementation,yes,no,no,no,2025-09-13 16:40:18.204547,2025-09-21 01:40:18.204547
+TKT_0130,change implementation,yes,no,no,no,2025-09-06 16:40:18.204547,2025-09-08 13:40:18.204547
+TKT_0131,waiting for internal reply,no,no,no,no,2025-08-28 16:40:18.204547,
+TKT_0132,change implementation,no,no,no,no,2025-10-18 16:40:18.204547,2025-10-24 07:40:18.204547
+TKT_0133,waiting for customer reply,no,no,no,no,2025-09-05 16:40:18.204547,2025-09-13 01:40:18.204547
+TKT_0134,change implementation,no,no,no,no,2025-10-08 16:40:18.204547,2025-10-12 13:40:18.204547
+TKT_0135,waiting for internal reply,no,no,yes,no,2025-09-25 16:40:18.204547,
+TKT_0136,waiting for internal reply,yes,no,no,no,2025-09-05 16:40:18.204547,2025-09-12 11:40:18.204547
+TKT_0137,waiting for customer reply,no,no,no,yes,2025-10-22 16:40:18.204547,
+TKT_0138,closed,no,no,no,no,2025-11-08 16:40:18.204547,
+TKT_0139,closed,yes,no,yes,yes,2025-09-12 16:40:18.204547,2025-09-15 03:40:18.204547
+TKT_0140,change implementation,no,no,yes,no,2025-08-16 16:40:18.204547,2025-08-20 22:40:18.204547
+TKT_0141,open,no,no,no,no,2025-10-21 16:40:18.204547,2025-10-29 14:40:18.204547
+TKT_0142,change implementation,yes,yes,no,no,2025-10-10 16:40:18.204547,2025-10-16 08:40:18.204547
+TKT_0143,waiting for customer reply,no,no,no,yes,2025-10-10 16:40:18.204547,2025-10-12 15:40:18.204547
+TKT_0144,waiting for customer reply,no,no,no,yes,2025-08-29 16:40:18.204547,2025-09-03 17:40:18.204547
+TKT_0145,waiting for customer reply,no,no,no,no,2025-08-30 16:40:18.204547,2025-09-06 10:40:18.204547
+TKT_0146,waiting for customer reply,yes,no,no,no,2025-09-17 16:40:18.204547,2025-09-21 01:40:18.204547
+TKT_0147,waiting for customer reply,no,no,no,yes,2025-10-13 16:40:18.204547,2025-10-16 05:40:18.204547
+TKT_0148,waiting for internal reply,no,no,no,no,2025-10-17 16:40:18.204547,
+TKT_0149,closed,no,no,no,no,2025-10-19 16:40:18.204547,2025-10-25 03:40:18.204547
+TKT_0150,waiting for customer reply,no,no,no,no,2025-09-24 16:40:18.204547,2025-09-27 17:40:18.204547
+TKT_0151,open,no,no,no,no,2025-10-17 16:40:18.204547,2025-10-22 09:40:18.204547
+TKT_0152,open,no,no,yes,yes,2025-11-04 16:40:18.204547,
+TKT_0153,open,no,no,no,no,2025-09-08 16:40:18.204547,
+TKT_0154,open,yes,no,no,no,2025-10-02 16:40:18.204547,2025-10-04 16:40:18.204547
+TKT_0155,waiting for internal reply,no,no,no,no,2025-09-21 16:40:18.204547,2025-09-25 21:40:18.204547
+TKT_0156,open,no,no,no,no,2025-10-24 16:40:18.204547,
+TKT_0157,waiting for customer reply,no,no,no,no,2025-11-10 16:40:18.204547,2025-11-17 06:40:18.204547
+TKT_0158,change implementation,no,no,no,no,2025-10-28 16:40:18.204547,2025-11-03 19:40:18.204547
+TKT_0159,open,no,yes,no,no,2025-09-14 16:40:18.204547,
+TKT_0160,waiting for internal reply,yes,no,no,no,2025-09-30 16:40:18.204547,2025-10-07 11:40:18.204547
+TKT_0161,waiting for internal reply,no,no,no,no,2025-09-01 16:40:18.204547,2025-09-05 18:40:18.204547
+TKT_0162,open,no,no,no,no,2025-11-04 16:40:18.204547,2025-11-10 04:40:18.204547
+TKT_0163,change implementation,no,no,no,no,2025-10-09 16:40:18.204547,2025-10-10 03:40:18.204547
+TKT_0164,open,no,no,no,no,2025-10-11 16:40:18.204547,
+TKT_0165,waiting for internal reply,no,no,no,no,2025-09-10 16:40:18.204547,2025-09-12 20:40:18.204547
+TKT_0166,closed,yes,no,no,no,2025-09-05 16:40:18.204547,2025-09-10 00:40:18.204547
+TKT_0167,waiting for customer reply,no,no,no,no,2025-09-04 16:40:18.204547,2025-09-08 23:40:18.204547
+TKT_0168,waiting for internal reply,no,no,no,no,2025-11-09 16:40:18.204547,2025-11-11 21:40:18.204547
+TKT_0169,open,no,no,no,no,2025-09-26 16:40:18.204547,2025-10-02 19:40:18.204547
+TKT_0170,waiting for customer reply,yes,no,no,no,2025-10-03 16:40:18.204547,2025-10-09 16:40:18.204547
+TKT_0171,open,no,no,no,no,2025-08-26 16:40:18.204547,2025-08-31 15:40:18.204547
+TKT_0172,open,no,yes,no,no,2025-09-09 16:40:18.204547,2025-09-12 18:40:18.204547
+TKT_0173,closed,no,yes,no,no,2025-09-29 16:40:18.204547,2025-10-03 01:40:18.204547
+TKT_0174,waiting for customer reply,no,no,no,yes,2025-09-20 16:40:18.204547,
+TKT_0175,waiting for customer reply,no,no,no,no,2025-11-11 16:40:18.204547,
+TKT_0176,closed,yes,no,no,no,2025-10-10 16:40:18.204547,2025-10-11 07:40:18.204547
+TKT_0177,waiting for internal reply,no,no,no,no,2025-08-19 16:40:18.204547,2025-08-19 18:40:18.204547
+TKT_0178,open,no,yes,no,no,2025-11-08 16:40:18.204547,2025-11-16 20:40:18.204547
+TKT_0179,change implementation,no,yes,no,no,2025-10-03 16:40:18.204547,2025-10-10 21:40:18.204547
+TKT_0180,open,no,no,no,no,2025-10-21 16:40:18.204547,2025-10-26 02:40:18.204547
+TKT_0181,open,yes,no,no,yes,2025-10-27 16:40:18.204547,2025-11-03 06:40:18.204547
+TKT_0182,waiting for internal reply,no,no,no,no,2025-09-23 16:40:18.204547,
+TKT_0183,open,no,no,no,no,2025-09-12 16:40:18.204547,2025-09-15 22:40:18.204547
+TKT_0184,closed,no,yes,no,no,2025-10-04 16:40:18.204547,
+TKT_0185,closed,no,no,no,no,2025-09-07 16:40:18.204547,
+TKT_0186,waiting for customer reply,no,no,no,no,2025-10-06 16:40:18.204547,2025-10-07 12:40:18.204547
+TKT_0187,change implementation,no,no,no,no,2025-09-18 16:40:18.204547,2025-09-25 20:40:18.204547
+TKT_0188,open,no,no,no,no,2025-11-11 16:40:18.204547,2025-11-19 20:40:18.204547
+TKT_0189,open,no,no,no,no,2025-11-03 16:40:18.204547,2025-11-08 12:40:18.204547
+TKT_0190,waiting for internal reply,yes,yes,no,no,2025-10-15 16:40:18.204547,
+TKT_0191,closed,yes,yes,no,no,2025-08-20 16:40:18.204547,
+TKT_0192,change implementation,no,no,yes,no,2025-09-20 16:40:18.204547,2025-09-22 03:40:18.204547
+TKT_0193,waiting for customer reply,yes,no,no,yes,2025-11-04 16:40:18.204547,2025-11-10 08:40:18.204547
+TKT_0194,closed,yes,no,no,no,2025-09-28 16:40:18.204547,2025-09-29 04:40:18.204547
+TKT_0195,waiting for customer reply,no,no,no,no,2025-11-03 16:40:18.204547,
+TKT_0196,waiting for internal reply,yes,no,no,no,2025-10-19 16:40:18.204547,2025-10-20 16:40:18.204547
+TKT_0197,waiting for internal reply,no,no,no,no,2025-11-06 16:40:18.204547,2025-11-14 08:40:18.204547
+TKT_0198,open,yes,no,no,no,2025-10-23 16:40:18.204547,2025-10-25 15:40:18.204547
+TKT_0199,change implementation,no,yes,no,no,2025-10-18 16:40:18.204547,2025-10-24 19:40:18.204547
+TKT_0200,waiting for customer reply,no,no,no,no,2025-08-25 16:40:18.204547,2025-09-02 23:40:18.204547
+TKT_0201,closed,no,yes,no,no,2025-09-12 16:40:18.204547,2025-09-14 17:40:18.204547
+TKT_0202,waiting for internal reply,yes,no,no,yes,2025-10-12 16:40:18.204547,
+TKT_0203,open,no,no,no,no,2025-08-20 16:40:18.204547,2025-08-22 04:40:18.204547
+TKT_0204,open,no,yes,no,yes,2025-10-30 16:40:18.204547,2025-11-01 19:40:18.204547
+TKT_0205,waiting for customer reply,no,no,no,no,2025-08-25 16:40:18.204547,2025-09-02 19:40:18.204547
+TKT_0206,waiting for internal reply,no,no,no,no,2025-08-17 16:40:18.204547,2025-08-25 00:40:18.204547
+TKT_0207,change implementation,no,no,no,no,2025-09-19 16:40:18.204547,
+TKT_0208,waiting for internal reply,yes,no,no,no,2025-10-30 16:40:18.204547,2025-11-03 13:40:18.204547
+TKT_0209,waiting for customer reply,no,yes,no,yes,2025-10-26 16:40:18.204547,2025-10-31 01:40:18.204547
+TKT_0210,waiting for customer reply,no,no,no,no,2025-09-13 16:40:18.204547,2025-09-15 09:40:18.204547
+TKT_0211,waiting for internal reply,no,no,no,no,2025-08-25 16:40:18.204547,2025-08-28 19:40:18.204547
+TKT_0212,waiting for customer reply,no,yes,yes,no,2025-10-11 16:40:18.204547,2025-10-18 00:40:18.204547
+TKT_0213,waiting for internal reply,no,no,no,no,2025-09-23 16:40:18.204547,2025-09-26 07:40:18.204547
+TKT_0214,closed,no,yes,no,no,2025-09-16 16:40:18.204547,2025-09-24 13:40:18.204547
+TKT_0215,waiting for internal reply,yes,yes,no,no,2025-08-21 16:40:18.204547,
+TKT_0216,waiting for internal reply,no,no,yes,no,2025-08-27 16:40:18.204547,2025-08-28 13:40:18.204547
+TKT_0217,waiting for customer reply,no,yes,no,no,2025-11-14 16:40:18.204547,2025-11-19 01:40:18.204547
+TKT_0218,waiting for customer reply,no,no,no,no,2025-09-24 16:40:18.204547,2025-09-27 03:40:18.204547
+TKT_0219,open,no,no,no,no,2025-10-29 16:40:18.204547,2025-11-04 23:40:18.204547
+TKT_0220,open,yes,no,no,no,2025-10-27 16:40:18.204547,2025-11-03 06:40:18.204547
+TKT_0221,closed,no,no,no,no,2025-08-21 16:40:18.204547,
+TKT_0222,open,no,no,no,no,2025-10-27 16:40:18.204547,2025-11-04 16:40:18.204547
+TKT_0223,waiting for internal reply,no,yes,no,no,2025-10-02 16:40:18.204547,2025-10-10 10:40:18.204547
+TKT_0224,waiting for customer reply,yes,no,no,no,2025-09-21 16:40:18.204547,2025-09-29 21:40:18.204547
+TKT_0225,open,no,no,no,no,2025-09-18 16:40:18.204547,2025-09-21 18:40:18.204547
+TKT_0226,open,no,yes,no,no,2025-08-28 16:40:18.204547,2025-09-02 11:40:18.204547
+TKT_0227,closed,yes,no,yes,no,2025-11-14 16:40:18.204547,
+TKT_0228,closed,no,yes,no,no,2025-08-20 16:40:18.204547,2025-08-21 08:40:18.204547
+TKT_0229,waiting for internal reply,yes,no,yes,no,2025-08-22 16:40:18.204547,2025-08-22 21:40:18.204547
+TKT_0230,waiting for customer reply,yes,no,no,no,2025-09-13 16:40:18.204547,2025-09-17 08:40:18.204547
+TKT_0231,closed,no,no,no,yes,2025-09-18 16:40:18.204547,
+TKT_0232,open,no,no,no,no,2025-09-25 16:40:18.204547,2025-09-26 05:40:18.204547
+TKT_0233,waiting for customer reply,no,no,no,no,2025-09-28 16:40:18.204547,2025-09-29 15:40:18.204547
+TKT_0234,waiting for customer reply,no,no,no,no,2025-10-02 16:40:18.204547,2025-10-05 13:40:18.204547
+TKT_0235,open,no,no,no,no,2025-10-05 16:40:18.204547,
+TKT_0236,closed,no,yes,no,yes,2025-10-02 16:40:18.204547,2025-10-07 13:40:18.204547
+TKT_0237,open,no,no,no,no,2025-10-04 16:40:18.204547,
+TKT_0238,waiting for customer reply,no,no,no,no,2025-08-20 16:40:18.204547,2025-08-28 10:40:18.204547
+TKT_0239,change implementation,no,no,no,no,2025-10-31 16:40:18.204547,2025-11-07 21:40:18.204547
+TKT_0240,change implementation,no,no,no,no,2025-10-13 16:40:18.204547,2025-10-21 00:40:18.204547
+TKT_0241,waiting for internal reply,no,no,no,no,2025-10-08 16:40:18.204547,2025-10-13 11:40:18.204547
+TKT_0242,open,no,no,no,yes,2025-09-14 16:40:18.204547,
+TKT_0243,open,no,no,no,no,2025-10-30 16:40:18.204547,2025-11-05 22:40:18.204547
+TKT_0244,waiting for internal reply,yes,yes,no,no,2025-09-28 16:40:18.204547,2025-10-03 15:40:18.204547
+TKT_0245,waiting for internal reply,no,yes,no,no,2025-08-21 16:40:18.204547,2025-08-28 12:40:18.204547
+TKT_0246,waiting for internal reply,no,no,no,no,2025-08-24 16:40:18.204547,2025-08-29 04:40:18.204547
+TKT_0247,waiting for customer reply,yes,no,yes,yes,2025-10-04 16:40:18.204547,2025-10-09 18:40:18.204547
+TKT_0248,open,yes,no,no,no,2025-11-04 16:40:18.204547,2025-11-12 07:40:18.204547
+TKT_0249,waiting for customer reply,no,no,no,no,2025-10-17 16:40:18.204547,
+TKT_0250,waiting for internal reply,no,no,no,no,2025-11-08 16:40:18.204547,2025-11-16 02:40:18.204547
+TKT_0251,open,no,no,yes,no,2025-10-23 16:40:18.204547,2025-10-24 08:40:18.204547
+TKT_0252,waiting for customer reply,yes,no,no,no,2025-08-22 16:40:18.204547,
+TKT_0253,waiting for customer reply,no,no,no,no,2025-09-15 16:40:18.204547,
+TKT_0254,waiting for internal reply,no,no,no,yes,2025-09-18 16:40:18.204547,2025-09-26 19:40:18.204547
+TKT_0255,open,yes,no,yes,no,2025-09-10 16:40:18.204547,2025-09-16 01:40:18.204547
+TKT_0256,waiting for internal reply,yes,no,no,no,2025-09-06 16:40:18.204547,2025-09-08 08:40:18.204547
+TKT_0257,open,no,no,no,no,2025-10-24 16:40:18.204547,2025-10-29 15:40:18.204547
+TKT_0258,change implementation,no,no,no,no,2025-09-30 16:40:18.204547,
+TKT_0259,closed,no,no,no,yes,2025-11-06 16:40:18.204547,2025-11-14 01:40:18.204547
+TKT_0260,closed,no,no,no,no,2025-09-26 16:40:18.204547,2025-10-01 22:40:18.204547
+TKT_0261,closed,no,no,no,no,2025-08-27 16:40:18.204547,
+TKT_0262,waiting for internal reply,no,no,no,no,2025-10-24 16:40:18.204547,2025-10-25 09:40:18.204547
+TKT_0263,change implementation,no,no,no,yes,2025-08-25 16:40:18.204547,2025-08-28 11:40:18.204547
+TKT_0264,open,no,yes,no,no,2025-10-13 16:40:18.204547,2025-10-21 11:40:18.204547
+TKT_0265,waiting for customer reply,no,yes,yes,no,2025-10-09 16:40:18.204547,2025-10-14 02:40:18.204547
+TKT_0266,open,no,no,yes,no,2025-09-01 16:40:18.204547,2025-09-03 23:40:18.204547
+TKT_0267,waiting for customer reply,no,no,no,no,2025-09-23 16:40:18.204547,
+TKT_0268,open,no,no,no,no,2025-10-19 16:40:18.204547,2025-10-23 11:40:18.204547
+TKT_0269,change implementation,no,no,no,no,2025-09-22 16:40:18.204547,2025-09-28 22:40:18.204547
+TKT_0270,waiting for customer reply,no,no,no,yes,2025-08-26 16:40:18.204547,
+TKT_0271,waiting for internal reply,no,no,no,no,2025-08-18 16:40:18.204547,2025-08-21 05:40:18.204547
+TKT_0272,open,no,no,no,yes,2025-10-17 16:40:18.204547,2025-10-23 10:40:18.204547
+TKT_0273,open,no,no,no,no,2025-10-03 16:40:18.204547,
+TKT_0274,waiting for customer reply,no,no,no,no,2025-10-31 16:40:18.204547,2025-11-01 08:40:18.204547
+TKT_0275,waiting for internal reply,no,yes,no,yes,2025-11-06 16:40:18.204547,2025-11-13 23:40:18.204547
+TKT_0276,waiting for internal reply,yes,no,yes,no,2025-10-16 16:40:18.204547,2025-10-18 08:40:18.204547
+TKT_0277,change implementation,no,no,no,yes,2025-10-28 16:40:18.204547,2025-11-05 02:40:18.204547
+TKT_0278,waiting for internal reply,no,no,no,no,2025-08-21 16:40:18.204547,2025-08-29 09:40:18.204547
+TKT_0279,waiting for internal reply,no,no,no,no,2025-08-16 16:40:18.204547,2025-08-20 12:40:18.204547
+TKT_0280,waiting for internal reply,yes,no,no,yes,2025-11-05 16:40:18.204547,
+TKT_0281,closed,no,no,no,no,2025-08-18 16:40:18.204547,
+TKT_0282,change implementation,no,no,no,no,2025-10-08 16:40:18.204547,
+TKT_0283,open,no,no,no,no,2025-10-27 16:40:18.204547,2025-11-02 23:40:18.204547
+TKT_0284,waiting for customer reply,no,no,no,yes,2025-11-06 16:40:18.204547,2025-11-09 09:40:18.204547
+TKT_0285,open,no,no,no,no,2025-09-20 16:40:18.204547,2025-09-23 02:40:18.204547
+TKT_0286,change implementation,yes,no,no,no,2025-10-17 16:40:18.204547,2025-10-20 14:40:18.204547
+TKT_0287,waiting for customer reply,no,no,no,no,2025-10-28 16:40:18.204547,
+TKT_0288,change implementation,no,no,no,yes,2025-10-18 16:40:18.204547,2025-10-19 02:40:18.204547
+TKT_0289,waiting for internal reply,no,no,no,yes,2025-10-17 16:40:18.204547,
+TKT_0290,waiting for customer reply,yes,no,no,no,2025-09-04 16:40:18.204547,2025-09-06 07:40:18.204547
+TKT_0291,waiting for internal reply,no,yes,no,no,2025-09-09 16:40:18.204547,2025-09-11 02:40:18.204547
+TKT_0292,open,no,no,no,no,2025-08-22 16:40:18.204547,2025-08-29 00:40:18.204547
+TKT_0293,open,no,no,no,no,2025-09-26 16:40:18.204547,2025-10-04 18:40:18.204547
+TKT_0294,waiting for customer reply,no,no,no,no,2025-09-30 16:40:18.204547,2025-10-02 11:40:18.204547
+TKT_0295,waiting for customer reply,no,no,yes,no,2025-10-11 16:40:18.204547,
+TKT_0296,change implementation,yes,no,yes,no,2025-11-09 16:40:18.204547,
+TKT_0297,change implementation,no,no,no,no,2025-11-12 16:40:18.204547,2025-11-18 14:40:18.204547
+TKT_0298,waiting for internal reply,yes,no,no,no,2025-09-14 16:40:18.204547,2025-09-21 07:40:18.204547
+TKT_0299,waiting for customer reply,no,no,no,no,2025-08-30 16:40:18.204547,2025-09-06 11:40:18.204547
+TKT_0300,open,no,no,no,no,2025-09-09 16:40:18.204547,2025-09-14 11:40:18.204547
+TKT_0301,change implementation,yes,no,no,no,2025-09-21 16:40:18.204547,2025-09-27 09:40:18.204547
+TKT_0302,change implementation,no,no,no,no,2025-10-02 16:40:18.204547,2025-10-09 03:40:18.204547
+TKT_0303,open,no,no,no,no,2025-09-17 16:40:18.204547,2025-09-18 15:40:18.204547
+TKT_0304,change implementation,no,no,no,no,2025-09-04 16:40:18.204547,2025-09-05 00:40:18.204547
+TKT_0305,waiting for internal reply,no,no,no,no,2025-10-23 16:40:18.204547,
+TKT_0306,waiting for customer reply,no,no,no,yes,2025-11-14 16:40:18.204547,
+TKT_0307,open,no,no,no,no,2025-08-16 16:40:18.204547,2025-08-18 23:40:18.204547
+TKT_0308,waiting for customer reply,no,no,no,no,2025-11-03 16:40:18.204547,2025-11-06 03:40:18.204547
+TKT_0309,change implementation,no,no,no,no,2025-09-07 16:40:18.204547,2025-09-09 01:40:18.204547
+TKT_0310,change implementation,yes,no,no,no,2025-10-27 16:40:18.204547,2025-11-04 02:40:18.204547
+TKT_0311,open,no,no,yes,no,2025-10-28 16:40:18.204547,
+TKT_0312,waiting for internal reply,no,no,no,yes,2025-10-30 16:40:18.204547,2025-11-05 05:40:18.204547
+TKT_0313,closed,no,yes,no,no,2025-10-30 16:40:18.204547,2025-11-02 21:40:18.204547
+TKT_0314,open,no,no,no,no,2025-09-22 16:40:18.204547,2025-09-23 08:40:18.204547
+TKT_0315,closed,no,no,no,no,2025-09-09 16:40:18.204547,2025-09-13 08:40:18.204547
+TKT_0316,closed,yes,no,no,no,2025-08-20 16:40:18.204547,2025-08-28 19:40:18.204547
+TKT_0317,waiting for internal reply,no,yes,no,no,2025-11-04 16:40:18.204547,2025-11-11 03:40:18.204547
+TKT_0318,closed,no,no,no,no,2025-11-07 16:40:18.204547,2025-11-10 15:40:18.204547
+TKT_0319,closed,no,no,no,no,2025-09-17 16:40:18.204547,2025-09-20 00:40:18.204547
+TKT_0320,waiting for internal reply,yes,no,no,yes,2025-10-25 16:40:18.204547,2025-10-29 23:40:18.204547
+TKT_0321,closed,no,no,no,no,2025-08-26 16:40:18.204547,
+TKT_0322,closed,no,no,no,no,2025-09-19 16:40:18.204547,2025-09-23 12:40:18.204547
+TKT_0323,closed,no,no,yes,no,2025-11-12 16:40:18.204547,2025-11-18 23:40:18.204547
+TKT_0324,open,no,no,yes,no,2025-09-21 16:40:18.204547,2025-09-24 02:40:18.204547
+TKT_0325,open,no,no,no,yes,2025-09-24 16:40:18.204547,2025-10-01 21:40:18.204547
+TKT_0326,open,no,no,no,no,2025-08-20 16:40:18.204547,2025-08-27 01:40:18.204547
+TKT_0327,waiting for internal reply,yes,no,no,yes,2025-09-05 16:40:18.204547,2025-09-12 02:40:18.204547
+TKT_0328,change implementation,no,yes,no,no,2025-10-25 16:40:18.204547,2025-10-27 21:40:18.204547
+TKT_0329,closed,no,no,no,no,2025-09-05 16:40:18.204547,
+TKT_0330,closed,no,no,no,yes,2025-09-05 16:40:18.204547,
+TKT_0331,waiting for internal reply,no,no,no,no,2025-09-30 16:40:18.204547,
+TKT_0332,closed,no,no,no,yes,2025-08-29 16:40:18.204547,2025-09-04 02:40:18.204547
+TKT_0333,open,no,no,no,no,2025-11-11 16:40:18.204547,2025-11-12 17:40:18.204547
+TKT_0334,change implementation,no,no,yes,no,2025-09-29 16:40:18.204547,2025-09-30 06:40:18.204547
+TKT_0335,waiting for customer reply,yes,no,no,yes,2025-08-16 16:40:18.204547,2025-08-24 17:40:18.204547
+TKT_0336,closed,no,no,yes,no,2025-08-25 16:40:18.204547,2025-09-02 22:40:18.204547
+TKT_0337,open,no,yes,yes,yes,2025-11-13 16:40:18.204547,2025-11-15 12:40:18.204547
+TKT_0338,waiting for customer reply,yes,no,no,no,2025-08-21 16:40:18.204547,2025-08-22 14:40:18.204547
+TKT_0339,change implementation,no,yes,no,no,2025-10-29 16:40:18.204547,
+TKT_0340,waiting for customer reply,no,no,no,no,2025-10-23 16:40:18.204547,2025-10-23 21:40:18.204547
+TKT_0341,open,no,no,no,yes,2025-10-04 16:40:18.204547,2025-10-07 23:40:18.204547
+TKT_0342,waiting for customer reply,no,yes,no,no,2025-09-25 16:40:18.204547,2025-10-01 06:40:18.204547
+TKT_0343,waiting for internal reply,no,yes,no,no,2025-09-16 16:40:18.204547,
+TKT_0344,waiting for customer reply,yes,no,yes,no,2025-08-16 16:40:18.204547,2025-08-19 17:40:18.204547
+TKT_0345,closed,no,no,no,no,2025-11-07 16:40:18.204547,2025-11-08 21:40:18.204547
+TKT_0346,closed,no,no,no,no,2025-09-17 16:40:18.204547,
+TKT_0347,waiting for internal reply,yes,no,no,no,2025-08-18 16:40:18.204547,2025-08-18 21:40:18.204547
+TKT_0348,open,no,yes,no,no,2025-11-07 16:40:18.204547,2025-11-11 00:40:18.204547
+TKT_0349,closed,no,yes,yes,no,2025-09-03 16:40:18.204547,2025-09-09 12:40:18.204547
+TKT_0350,change implementation,no,no,no,no,2025-09-08 16:40:18.204547,2025-09-12 21:40:18.204547
+TKT_0351,closed,no,no,no,no,2025-10-02 16:40:18.204547,2025-10-09 07:40:18.204547
+TKT_0352,closed,no,yes,no,yes,2025-09-04 16:40:18.204547,
+TKT_0353,open,no,no,no,no,2025-11-05 16:40:18.204547,2025-11-12 01:40:18.204547
+TKT_0354,waiting for customer reply,no,no,no,no,2025-10-04 16:40:18.204547,
+TKT_0355,closed,no,no,no,no,2025-10-13 16:40:18.204547,2025-10-16 22:40:18.204547
+TKT_0356,waiting for internal reply,no,no,no,no,2025-11-02 16:40:18.204547,2025-11-09 20:40:18.204547
+TKT_0357,waiting for customer reply,no,no,no,no,2025-09-06 16:40:18.204547,
+TKT_0358,change implementation,yes,no,no,yes,2025-10-30 16:40:18.204547,
+TKT_0359,open,yes,no,no,no,2025-10-02 16:40:18.204547,2025-10-10 16:40:18.204547
+TKT_0360,change implementation,no,yes,no,no,2025-11-04 16:40:18.204547,
+TKT_0361,waiting for customer reply,no,yes,no,no,2025-10-17 16:40:18.204547,2025-10-20 19:40:18.204547
+TKT_0362,waiting for customer reply,no,no,no,no,2025-10-11 16:40:18.204547,2025-10-13 02:40:18.204547
+TKT_0363,waiting for customer reply,no,no,no,no,2025-11-02 16:40:18.204547,2025-11-03 05:40:18.204547
+TKT_0364,change implementation,no,no,no,no,2025-10-02 16:40:18.204547,2025-10-10 16:40:18.204547
+TKT_0365,waiting for customer reply,no,no,no,no,2025-10-03 16:40:18.204547,2025-10-11 21:40:18.204547
+TKT_0366,change implementation,yes,no,no,no,2025-08-31 16:40:18.204547,2025-09-06 03:40:18.204547
+TKT_0367,waiting for customer reply,no,yes,no,yes,2025-10-30 16:40:18.204547,
+TKT_0368,waiting for internal reply,yes,no,no,no,2025-10-24 16:40:18.204547,2025-10-27 17:40:18.204547
+TKT_0369,waiting for customer reply,no,no,no,no,2025-09-25 16:40:18.204547,2025-10-03 16:40:18.204547
+TKT_0370,change implementation,yes,no,no,yes,2025-09-22 16:40:18.204547,2025-09-26 14:40:18.204547
+TKT_0371,closed,no,no,no,no,2025-09-03 16:40:18.204547,2025-09-06 14:40:18.204547
+TKT_0372,waiting for customer reply,yes,no,yes,no,2025-08-17 16:40:18.204547,2025-08-21 04:40:18.204547
+TKT_0373,closed,no,no,no,no,2025-11-05 16:40:18.204547,
+TKT_0374,waiting for internal reply,no,no,no,no,2025-10-14 16:40:18.204547,2025-10-16 15:40:18.204547
+TKT_0375,open,no,no,yes,no,2025-08-22 16:40:18.204547,2025-08-25 19:40:18.204547
+TKT_0376,waiting for internal reply,yes,no,no,no,2025-10-02 16:40:18.204547,2025-10-07 03:40:18.204547
+TKT_0377,waiting for customer reply,no,no,no,no,2025-08-16 16:40:18.204547,2025-08-17 07:40:18.204547
+TKT_0378,closed,no,no,no,no,2025-09-12 16:40:18.204547,2025-09-19 03:40:18.204547
+TKT_0379,closed,no,no,no,yes,2025-08-28 16:40:18.204547,2025-09-01 19:40:18.204547
+TKT_0380,change implementation,no,yes,no,no,2025-11-10 16:40:18.204547,
+TKT_0381,closed,yes,no,no,no,2025-09-11 16:40:18.204547,2025-09-12 11:40:18.204547
+TKT_0382,change implementation,yes,no,no,no,2025-09-18 16:40:18.204547,2025-09-22 01:40:18.204547
+TKT_0383,open,no,no,no,no,2025-10-12 16:40:18.204547,2025-10-14 06:40:18.204547
+TKT_0384,waiting for customer reply,no,no,no,no,2025-09-08 16:40:18.204547,2025-09-09 11:40:18.204547
+TKT_0385,change implementation,yes,no,no,no,2025-09-29 16:40:18.204547,2025-10-03 20:40:18.204547
+TKT_0386,open,no,no,yes,no,2025-10-12 16:40:18.204547,
+TKT_0387,closed,no,no,no,no,2025-11-13 16:40:18.204547,2025-11-21 16:40:18.204547
+TKT_0388,closed,no,yes,no,no,2025-10-13 16:40:18.204547,2025-10-17 19:40:18.204547
+TKT_0389,open,no,no,no,no,2025-09-14 16:40:18.204547,
+TKT_0390,closed,no,no,yes,no,2025-10-12 16:40:18.204547,2025-10-16 00:40:18.204547
+TKT_0391,open,no,yes,no,no,2025-08-20 16:40:18.204547,2025-08-23 10:40:18.204547
+TKT_0392,change implementation,yes,no,no,yes,2025-08-29 16:40:18.204547,2025-09-03 02:40:18.204547
+TKT_0393,change implementation,yes,no,no,no,2025-09-26 16:40:18.204547,2025-09-30 17:40:18.204547
+TKT_0394,open,no,no,no,no,2025-09-03 16:40:18.204547,
+TKT_0395,change implementation,no,no,no,no,2025-11-06 16:40:18.204547,2025-11-11 10:40:18.204547
+TKT_0396,change implementation,no,no,no,no,2025-11-08 16:40:18.204547,2025-11-12 05:40:18.204547
+TKT_0397,change implementation,no,no,no,no,2025-09-06 16:40:18.204547,2025-09-09 17:40:18.204547
+TKT_0398,waiting for internal reply,no,no,no,no,2025-10-10 16:40:18.204547,2025-10-10 23:40:18.204547
+TKT_0399,waiting for customer reply,no,no,no,no,2025-10-24 16:40:18.204547,2025-10-29 14:40:18.204547
+TKT_0400,closed,yes,no,no,no,2025-09-28 16:40:18.204547,2025-10-03 16:40:18.204547
+TKT_0401,waiting for internal reply,yes,no,no,no,2025-10-03 16:40:18.204547,2025-10-06 17:40:18.204547
+TKT_0402,change implementation,no,no,no,no,2025-09-08 16:40:18.204547,
+TKT_0403,open,no,no,no,yes,2025-10-26 16:40:18.204547,
+TKT_0404,change implementation,yes,no,no,yes,2025-08-27 16:40:18.204547,2025-08-29 15:40:18.204547
+TKT_0405,waiting for customer reply,no,no,no,no,2025-08-30 16:40:18.204547,
+TKT_0406,change implementation,no,no,yes,no,2025-10-16 16:40:18.204547,
+TKT_0407,open,no,yes,yes,no,2025-08-19 16:40:18.204547,2025-08-24 13:40:18.204547
+TKT_0408,waiting for customer reply,yes,no,no,yes,2025-10-26 16:40:18.204547,
+TKT_0409,change implementation,yes,yes,no,no,2025-10-07 16:40:18.204547,2025-10-08 03:40:18.204547
+TKT_0410,waiting for customer reply,no,no,no,no,2025-10-30 16:40:18.204547,2025-11-06 19:40:18.204547
+TKT_0411,closed,yes,no,no,yes,2025-08-17 16:40:18.204547,2025-08-20 16:40:18.204547
+TKT_0412,closed,no,no,no,yes,2025-09-12 16:40:18.204547,2025-09-20 23:40:18.204547
+TKT_0413,change implementation,no,no,no,no,2025-11-12 16:40:18.204547,
+TKT_0414,waiting for customer reply,yes,no,no,no,2025-10-18 16:40:18.204547,2025-10-18 17:40:18.204547
+TKT_0415,open,no,no,no,no,2025-09-15 16:40:18.204547,
+TKT_0416,change implementation,no,no,no,no,2025-08-30 16:40:18.204547,2025-09-07 06:40:18.204547
+TKT_0417,closed,no,no,no,no,2025-09-27 16:40:18.204547,2025-10-03 11:40:18.204547
+TKT_0418,closed,no,no,no,yes,2025-09-10 16:40:18.204547,2025-09-18 07:40:18.204547
+TKT_0419,change implementation,no,yes,no,no,2025-09-25 16:40:18.204547,2025-09-29 02:40:18.204547
+TKT_0420,waiting for customer reply,no,no,no,no,2025-10-19 16:40:18.204547,
+TKT_0421,closed,no,no,no,no,2025-10-26 16:40:18.204547,
+TKT_0422,waiting for customer reply,no,no,no,no,2025-08-28 16:40:18.204547,2025-09-01 03:40:18.204547
+TKT_0423,closed,no,no,no,no,2025-09-30 16:40:18.204547,2025-10-08 05:40:18.204547
+TKT_0424,closed,yes,no,no,no,2025-10-11 16:40:18.204547,2025-10-18 13:40:18.204547
+TKT_0425,waiting for internal reply,yes,no,no,no,2025-10-13 16:40:18.204547,2025-10-15 09:40:18.204547
+TKT_0426,closed,no,no,no,no,2025-08-27 16:40:18.204547,
+TKT_0427,open,yes,no,no,no,2025-08-25 16:40:18.204547,2025-08-28 01:40:18.204547
+TKT_0428,change implementation,yes,yes,no,yes,2025-09-29 16:40:18.204547,2025-10-01 21:40:18.204547
+TKT_0429,change implementation,no,no,no,yes,2025-10-09 16:40:18.204547,2025-10-15 11:40:18.204547
+TKT_0430,waiting for customer reply,no,no,no,no,2025-10-28 16:40:18.204547,2025-11-01 12:40:18.204547
+TKT_0431,closed,no,no,no,no,2025-10-24 16:40:18.204547,2025-10-25 23:40:18.204547
+TKT_0432,open,no,no,no,yes,2025-10-16 16:40:18.204547,
+TKT_0433,waiting for customer reply,no,no,no,no,2025-09-14 16:40:18.204547,2025-09-19 21:40:18.204547
+TKT_0434,waiting for internal reply,no,no,no,yes,2025-10-30 16:40:18.204547,2025-11-07 23:40:18.204547
+TKT_0435,waiting for customer reply,no,no,no,no,2025-08-30 16:40:18.204547,2025-09-06 15:40:18.204547
+TKT_0436,waiting for customer reply,no,no,no,no,2025-10-22 16:40:18.204547,2025-10-24 09:40:18.204547
+TKT_0437,closed,no,no,no,no,2025-08-22 16:40:18.204547,
+TKT_0438,waiting for internal reply,no,no,no,no,2025-09-06 16:40:18.204547,2025-09-08 08:40:18.204547
+TKT_0439,waiting for customer reply,no,yes,no,no,2025-09-13 16:40:18.204547,2025-09-15 06:40:18.204547
+TKT_0440,open,no,no,no,yes,2025-10-23 16:40:18.204547,2025-10-29 10:40:18.204547
+TKT_0441,open,no,yes,no,no,2025-10-30 16:40:18.204547,
+TKT_0442,change implementation,no,no,no,no,2025-09-20 16:40:18.204547,2025-09-23 08:40:18.204547
+TKT_0443,waiting for internal reply,no,no,no,no,2025-11-09 16:40:18.204547,2025-11-13 00:40:18.204547
+TKT_0444,waiting for internal reply,no,no,yes,no,2025-08-30 16:40:18.204547,2025-09-01 10:40:18.204547
+TKT_0445,change implementation,yes,no,no,yes,2025-10-24 16:40:18.204547,2025-10-26 01:40:18.204547
+TKT_0446,waiting for customer reply,no,yes,no,no,2025-09-28 16:40:18.204547,2025-10-03 18:40:18.204547
+TKT_0447,waiting for internal reply,no,no,no,no,2025-09-16 16:40:18.204547,2025-09-16 19:40:18.204547
+TKT_0448,open,no,no,no,no,2025-09-29 16:40:18.204547,2025-10-01 14:40:18.204547
+TKT_0449,open,no,yes,no,no,2025-10-01 16:40:18.204547,2025-10-06 13:40:18.204547
+TKT_0450,closed,no,no,no,no,2025-10-24 16:40:18.204547,2025-10-29 07:40:18.204547
+TKT_0451,waiting for internal reply,yes,no,no,no,2025-08-17 16:40:18.204547,2025-08-21 03:40:18.204547
+TKT_0452,waiting for customer reply,no,no,no,yes,2025-09-23 16:40:18.204547,2025-09-28 03:40:18.204547
+TKT_0453,change implementation,no,no,no,no,2025-08-20 16:40:18.204547,2025-08-23 05:40:18.204547
+TKT_0454,change implementation,no,no,no,no,2025-09-30 16:40:18.204547,
+TKT_0455,waiting for customer reply,no,no,no,no,2025-09-14 16:40:18.204547,2025-09-19 03:40:18.204547
+TKT_0456,closed,yes,no,no,no,2025-09-15 16:40:18.204547,
+TKT_0457,change implementation,no,no,yes,no,2025-10-23 16:40:18.204547,2025-10-24 18:40:18.204547
+TKT_0458,waiting for internal reply,no,no,no,yes,2025-08-30 16:40:18.204547,2025-08-31 07:40:18.204547
+TKT_0459,closed,no,no,no,no,2025-10-30 16:40:18.204547,
+TKT_0460,waiting for internal reply,yes,no,no,no,2025-09-27 16:40:18.204547,2025-10-03 12:40:18.204547
+TKT_0461,open,no,yes,no,no,2025-10-09 16:40:18.204547,2025-10-12 10:40:18.204547
+TKT_0462,closed,yes,no,yes,no,2025-10-02 16:40:18.204547,2025-10-08 10:40:18.204547
+TKT_0463,change implementation,no,no,no,no,2025-11-12 16:40:18.204547,2025-11-20 19:40:18.204547
+TKT_0464,closed,yes,no,no,no,2025-10-09 16:40:18.204547,2025-10-10 23:40:18.204547
+TKT_0465,closed,no,no,no,yes,2025-09-10 16:40:18.204547,2025-09-14 13:40:18.204547
+TKT_0466,closed,no,no,no,no,2025-11-05 16:40:18.204547,2025-11-13 08:40:18.204547
+TKT_0467,closed,no,yes,no,no,2025-11-13 16:40:18.204547,2025-11-14 02:40:18.204547
+TKT_0468,waiting for internal reply,no,no,no,no,2025-11-12 16:40:18.204547,2025-11-17 18:40:18.204547
+TKT_0469,open,no,no,no,yes,2025-10-06 16:40:18.204547,2025-10-07 19:40:18.204547
+TKT_0470,waiting for customer reply,no,no,no,no,2025-09-12 16:40:18.204547,2025-09-13 04:40:18.204547
+TKT_0471,closed,yes,no,no,no,2025-08-18 16:40:18.204547,2025-08-23 19:40:18.204547
+TKT_0472,change implementation,yes,no,no,no,2025-10-05 16:40:18.204547,2025-10-07 09:40:18.204547
+TKT_0473,closed,no,no,no,yes,2025-10-17 16:40:18.204547,2025-10-20 16:40:18.204547
+TKT_0474,change implementation,no,yes,no,no,2025-08-21 16:40:18.204547,2025-08-22 06:40:18.204547
+TKT_0475,waiting for internal reply,no,no,no,no,2025-09-17 16:40:18.204547,2025-09-17 19:40:18.204547
+TKT_0476,change implementation,no,no,no,no,2025-08-31 16:40:18.204547,2025-09-06 22:40:18.204547
+TKT_0477,waiting for customer reply,no,no,no,no,2025-09-30 16:40:18.204547,2025-10-06 14:40:18.204547
+TKT_0478,open,yes,no,no,no,2025-09-12 16:40:18.204547,2025-09-15 19:40:18.204547
+TKT_0479,change implementation,no,no,no,no,2025-10-28 16:40:18.204547,2025-11-01 22:40:18.204547
+TKT_0480,change implementation,no,no,no,no,2025-10-28 16:40:18.204547,2025-10-29 18:40:18.204547
+TKT_0481,open,no,no,no,no,2025-09-16 16:40:18.204547,2025-09-21 23:40:18.204547
+TKT_0482,waiting for customer reply,no,no,no,no,2025-11-02 16:40:18.204547,
+TKT_0483,closed,yes,no,no,no,2025-09-03 16:40:18.204547,2025-09-07 09:40:18.204547
+TKT_0484,change implementation,yes,no,no,no,2025-11-06 16:40:18.204547,2025-11-12 23:40:18.204547
+TKT_0485,open,no,no,no,yes,2025-09-13 16:40:18.204547,
+TKT_0486,waiting for internal reply,yes,no,no,yes,2025-08-17 16:40:18.204547,2025-08-18 04:40:18.204547
+TKT_0487,open,no,no,no,yes,2025-08-29 16:40:18.204547,2025-09-03 00:40:18.204547
+TKT_0488,waiting for internal reply,no,no,no,no,2025-10-11 16:40:18.204547,2025-10-12 13:40:18.204547
+TKT_0489,waiting for customer reply,no,no,no,no,2025-09-13 16:40:18.204547,2025-09-17 10:40:18.204547
+TKT_0490,closed,no,no,no,yes,2025-09-20 16:40:18.204547,
+TKT_0491,open,no,no,no,no,2025-10-13 16:40:18.204547,2025-10-17 15:40:18.204547
+TKT_0492,change implementation,no,no,no,no,2025-11-02 16:40:18.204547,2025-11-06 09:40:18.204547
+TKT_0493,waiting for customer reply,no,yes,no,no,2025-08-18 16:40:18.204547,2025-08-21 18:40:18.204547
+TKT_0494,open,no,no,no,no,2025-09-18 16:40:18.204547,
+TKT_0495,change implementation,no,no,no,no,2025-10-25 16:40:18.204547,2025-11-02 22:40:18.204547
+TKT_0496,open,no,no,no,yes,2025-10-05 16:40:18.204547,2025-10-12 21:40:18.204547
+TKT_0497,waiting for internal reply,no,no,yes,no,2025-08-17 16:40:18.204547,2025-08-20 07:40:18.204547
+TKT_0498,open,no,no,no,no,2025-08-24 16:40:18.204547,2025-09-01 10:40:18.204547
+TKT_0499,open,no,no,no,no,2025-10-10 16:40:18.204547,
+TKT_0500,open,yes,no,no,no,2025-09-01 16:40:18.204547,
+TKT_0501,waiting for customer reply,no,yes,no,no,2025-09-23 16:40:18.204547,
+TKT_0502,open,no,yes,no,yes,2025-08-28 16:40:18.204547,2025-09-03 12:40:18.204547
+TKT_0503,change implementation,yes,no,no,no,2025-08-22 16:40:18.204547,2025-08-30 23:40:18.204547
+TKT_0504,waiting for internal reply,no,no,no,no,2025-09-29 16:40:18.204547,2025-10-01 06:40:18.204547
+TKT_0505,waiting for internal reply,no,no,no,no,2025-11-02 16:40:18.204547,2025-11-05 01:40:18.204547
+TKT_0506,open,no,no,no,yes,2025-08-31 16:40:18.204547,2025-09-08 10:40:18.204547
+TKT_0507,waiting for customer reply,no,no,no,no,2025-09-09 16:40:18.204547,2025-09-10 23:40:18.204547
+TKT_0508,waiting for customer reply,yes,no,yes,no,2025-10-16 16:40:18.204547,2025-10-22 07:40:18.204547
+TKT_0509,change implementation,yes,no,no,no,2025-09-13 16:40:18.204547,
+TKT_0510,open,no,no,no,no,2025-10-04 16:40:18.204547,2025-10-11 18:40:18.204547
+TKT_0511,waiting for internal reply,no,yes,no,no,2025-09-08 16:40:18.204547,2025-09-11 08:40:18.204547
+TKT_0512,waiting for customer reply,no,no,no,no,2025-10-02 16:40:18.204547,
+TKT_0513,open,no,no,no,no,2025-08-17 16:40:18.204547,2025-08-23 17:40:18.204547
+TKT_0514,waiting for customer reply,no,no,no,no,2025-10-22 16:40:18.204547,2025-10-25 03:40:18.204547
+TKT_0515,waiting for customer reply,no,no,no,no,2025-10-30 16:40:18.204547,
+TKT_0516,waiting for internal reply,no,no,no,no,2025-08-25 16:40:18.204547,
+TKT_0517,closed,no,no,no,no,2025-09-25 16:40:18.204547,2025-09-27 16:40:18.204547
+TKT_0518,change implementation,no,yes,no,no,2025-08-17 16:40:18.204547,2025-08-24 06:40:18.204547
+TKT_0519,change implementation,no,yes,no,no,2025-08-26 16:40:18.204547,2025-08-28 19:40:18.204547
+TKT_0520,waiting for internal reply,no,no,no,no,2025-11-14 16:40:18.204547,2025-11-18 15:40:18.204547
+TKT_0521,waiting for customer reply,yes,no,no,no,2025-10-12 16:40:18.204547,2025-10-15 10:40:18.204547
+TKT_0522,open,no,no,no,yes,2025-10-28 16:40:18.204547,2025-10-31 07:40:18.204547
+TKT_0523,waiting for customer reply,yes,yes,no,no,2025-10-08 16:40:18.204547,2025-10-08 23:40:18.204547
+TKT_0524,waiting for internal reply,no,yes,no,no,2025-10-09 16:40:18.204547,2025-10-11 00:40:18.204547
+TKT_0525,change implementation,no,no,no,no,2025-09-24 16:40:18.204547,
+TKT_0526,waiting for customer reply,yes,no,no,no,2025-10-08 16:40:18.204547,2025-10-15 12:40:18.204547
+TKT_0527,change implementation,no,no,no,no,2025-10-06 16:40:18.204547,2025-10-14 07:40:18.204547
+TKT_0528,open,no,no,no,no,2025-08-29 16:40:18.204547,2025-08-31 23:40:18.204547
+TKT_0529,change implementation,no,no,yes,no,2025-09-11 16:40:18.204547,2025-09-19 18:40:18.204547
+TKT_0530,change implementation,no,yes,no,no,2025-09-14 16:40:18.204547,2025-09-22 10:40:18.204547
+TKT_0531,closed,no,no,no,no,2025-08-16 16:40:18.204547,2025-08-17 06:40:18.204547
+TKT_0532,closed,no,yes,no,no,2025-08-30 16:40:18.204547,2025-09-04 20:40:18.204547
+TKT_0533,closed,no,no,no,no,2025-09-15 16:40:18.204547,
+TKT_0534,change implementation,no,no,no,no,2025-09-17 16:40:18.204547,2025-09-23 19:40:18.204547
+TKT_0535,waiting for internal reply,no,no,no,no,2025-09-16 16:40:18.204547,2025-09-21 06:40:18.204547
+TKT_0536,change implementation,no,no,no,no,2025-10-20 16:40:18.204547,2025-10-27 20:40:18.204547
+TKT_0537,waiting for internal reply,no,no,no,no,2025-09-30 16:40:18.204547,2025-10-06 14:40:18.204547
+TKT_0538,waiting for internal reply,no,no,yes,no,2025-08-22 16:40:18.204547,
+TKT_0539,closed,yes,no,no,no,2025-09-03 16:40:18.204547,2025-09-11 14:40:18.204547
+TKT_0540,waiting for customer reply,no,no,no,no,2025-10-16 16:40:18.204547,
+TKT_0541,open,no,no,no,no,2025-10-19 16:40:18.204547,
+TKT_0542,closed,yes,no,no,no,2025-08-17 16:40:18.204547,2025-08-21 13:40:18.204547
+TKT_0543,closed,no,no,no,yes,2025-11-03 16:40:18.204547,2025-11-04 02:40:18.204547
+TKT_0544,waiting for customer reply,no,no,no,yes,2025-10-11 16:40:18.204547,
+TKT_0545,open,yes,no,no,no,2025-08-16 16:40:18.204547,2025-08-22 17:40:18.204547
+TKT_0546,change implementation,no,no,no,no,2025-11-02 16:40:18.204547,2025-11-04 19:40:18.204547
+TKT_0547,change implementation,no,yes,no,no,2025-11-01 16:40:18.204547,2025-11-08 01:40:18.204547
+TKT_0548,closed,no,no,yes,no,2025-10-18 16:40:18.204547,2025-10-26 13:40:18.204547
+TKT_0549,open,no,no,no,no,2025-10-25 16:40:18.204547,
+TKT_0550,closed,no,no,yes,no,2025-10-27 16:40:18.204547,2025-10-28 23:40:18.204547
+TKT_0551,waiting for internal reply,no,no,no,no,2025-10-12 16:40:18.204547,2025-10-18 03:40:18.204547
+TKT_0552,closed,no,no,no,no,2025-09-08 16:40:18.204547,
+TKT_0553,closed,no,no,no,yes,2025-09-02 16:40:18.204547,
+TKT_0554,change implementation,no,yes,no,no,2025-09-15 16:40:18.204547,
+TKT_0555,change implementation,no,no,no,yes,2025-09-18 16:40:18.204547,2025-09-25 17:40:18.204547
+TKT_0556,change implementation,yes,no,no,no,2025-10-15 16:40:18.204547,2025-10-19 05:40:18.204547
+TKT_0557,waiting for internal reply,no,no,yes,no,2025-09-01 16:40:18.204547,2025-09-03 14:40:18.204547
+TKT_0558,change implementation,no,no,no,yes,2025-11-07 16:40:18.204547,2025-11-12 20:40:18.204547
+TKT_0559,open,yes,no,no,no,2025-10-26 16:40:18.204547,2025-11-01 16:40:18.204547
+TKT_0560,waiting for customer reply,yes,no,no,no,2025-08-17 16:40:18.204547,2025-08-18 07:40:18.204547
+TKT_0561,open,no,no,no,no,2025-09-02 16:40:18.204547,
+TKT_0562,open,no,no,no,no,2025-08-20 16:40:18.204547,2025-08-24 15:40:18.204547
+TKT_0563,change implementation,no,no,no,yes,2025-10-26 16:40:18.204547,2025-11-02 21:40:18.204547
+TKT_0564,waiting for customer reply,yes,no,yes,no,2025-10-11 16:40:18.204547,2025-10-16 16:40:18.204547
+TKT_0565,waiting for customer reply,no,no,no,no,2025-11-04 16:40:18.204547,2025-11-08 05:40:18.204547
+TKT_0566,waiting for customer reply,no,no,no,no,2025-08-30 16:40:18.204547,2025-09-05 03:40:18.204547
+TKT_0567,waiting for internal reply,no,no,yes,no,2025-09-01 16:40:18.204547,
+TKT_0568,change implementation,no,no,no,no,2025-09-01 16:40:18.204547,2025-09-03 03:40:18.204547
+TKT_0569,waiting for customer reply,no,no,no,no,2025-09-09 16:40:18.204547,
+TKT_0570,waiting for internal reply,no,yes,no,no,2025-08-28 16:40:18.204547,2025-08-30 13:40:18.204547
+TKT_0571,closed,no,no,no,no,2025-09-22 16:40:18.204547,2025-09-28 06:40:18.204547
+TKT_0572,closed,no,yes,yes,no,2025-08-18 16:40:18.204547,2025-08-25 22:40:18.204547
+TKT_0573,waiting for internal reply,yes,no,no,no,2025-09-28 16:40:18.204547,
+TKT_0574,waiting for internal reply,no,no,no,no,2025-08-23 16:40:18.204547,2025-08-25 18:40:18.204547
+TKT_0575,change implementation,yes,no,no,no,2025-10-29 16:40:18.204547,2025-11-01 13:40:18.204547
+TKT_0576,change implementation,no,yes,yes,no,2025-08-28 16:40:18.204547,2025-08-31 04:40:18.204547
+TKT_0577,closed,no,no,no,no,2025-08-25 16:40:18.204547,2025-08-30 11:40:18.204547
+TKT_0578,waiting for customer reply,no,no,no,no,2025-10-29 16:40:18.204547,2025-11-03 05:40:18.204547
+TKT_0579,closed,no,no,no,no,2025-09-11 16:40:18.204547,2025-09-16 23:40:18.204547
+TKT_0580,waiting for customer reply,no,yes,no,yes,2025-08-27 16:40:18.204547,2025-08-31 23:40:18.204547
+TKT_0581,waiting for customer reply,no,no,no,no,2025-10-28 16:40:18.204547,2025-11-04 02:40:18.204547
+TKT_0582,change implementation,no,no,no,no,2025-09-21 16:40:18.204547,2025-09-22 04:40:18.204547
+TKT_0583,open,no,no,no,yes,2025-10-25 16:40:18.204547,2025-11-01 09:40:18.204547
+TKT_0584,open,no,no,no,yes,2025-09-14 16:40:18.204547,2025-09-15 08:40:18.204547
+TKT_0585,waiting for internal reply,no,no,no,no,2025-11-13 16:40:18.204547,2025-11-20 16:40:18.204547
+TKT_0586,change implementation,no,no,no,no,2025-11-08 16:40:18.204547,2025-11-15 22:40:18.204547
+TKT_0587,waiting for customer reply,no,no,no,no,2025-09-25 16:40:18.204547,2025-09-30 22:40:18.204547
+TKT_0588,open,no,no,no,no,2025-09-05 16:40:18.204547,
+TKT_0589,waiting for customer reply,no,no,no,no,2025-09-29 16:40:18.204547,2025-10-03 07:40:18.204547
+TKT_0590,open,no,no,no,no,2025-10-04 16:40:18.204547,2025-10-04 18:40:18.204547
+TKT_0591,open,no,no,no,no,2025-11-09 16:40:18.204547,2025-11-17 15:40:18.204547
+TKT_0592,open,no,no,no,no,2025-10-02 16:40:18.204547,2025-10-10 04:40:18.204547
+TKT_0593,change implementation,yes,no,no,no,2025-11-09 16:40:18.204547,
+TKT_0594,closed,no,yes,no,no,2025-09-19 16:40:18.204547,2025-09-25 17:40:18.204547
+TKT_0595,waiting for customer reply,no,no,no,no,2025-10-22 16:40:18.204547,2025-10-23 13:40:18.204547
+TKT_0596,change implementation,no,no,no,no,2025-09-30 16:40:18.204547,2025-10-04 20:40:18.204547
+TKT_0597,change implementation,no,no,no,no,2025-09-23 16:40:18.204547,
+TKT_0598,change implementation,yes,no,no,no,2025-08-16 16:40:18.204547,
+TKT_0599,change implementation,yes,no,no,no,2025-09-18 16:40:18.204547,2025-09-21 18:40:18.204547
+TKT_0600,change implementation,no,no,no,no,2025-10-15 16:40:18.204547,2025-10-21 12:40:18.204547
