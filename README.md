@@ -57,3 +57,16 @@ pip install -r requirements.txt   # if you add this file later
 streamlit run app.py
 # AI-Customer-Success-Command-Center
 AI-driven customer success &amp; support dashboard built with AI agents, Python and Streamlit.
+
+AI-Customer-Success-Command-Center/
+├── app.py                     # Main Streamlit dashboard
+├── agents.py                  # AI agent / LLM logic
+├── model.py                   # Churn model utilities
+├── churn_model.pkl            # Trained churn model (demo)
+├── data/
+│   ├── customer_churn_sample.csv
+│   └── ticket_dataset_v2.csv
+├── .streamlit/                # Streamlit config
+└── .gitignore
+
+⚠️ All data in this project is synthetic and created only for demo purposes. No real customer or employer data is used.
